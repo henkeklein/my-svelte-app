@@ -16,6 +16,10 @@
 						<a class="nav-link" href="/about">About</a>
 					</li>
 					<hr />
+					<li class="nav-item fs-5">
+						<a class="nav-link" href="/playground">Playground</a>
+					</li>
+					<hr />
 					<li class="nav-item">
 						<a class="nav-link" target="_blank" href="https://www.linkedin.com/in/henrik-klein-95a1a9a5/">
 							<img src={image} alt="linkedin" width="30" height="25" />
